@@ -12,6 +12,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 
 
 import java.time.Duration;
+import java.util.Scanner;
 
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
